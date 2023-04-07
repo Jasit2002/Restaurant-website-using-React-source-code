@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Restaurant-website-using-React/static/css/main.2aae2c2e.chunk.css",
+    "main.js": "/Restaurant-website-using-React/static/js/main.b08fe1a0.chunk.js",
+    "main.js.map": "/Restaurant-website-using-React/static/js/main.b08fe1a0.chunk.js.map",
+    "runtime-main.js": "/Restaurant-website-using-React/static/js/runtime-main.baa3a847.js",
+    "runtime-main.js.map": "/Restaurant-website-using-React/static/js/runtime-main.baa3a847.js.map",
+    "static/js/2.bc256e4b.chunk.js": "/Restaurant-website-using-React/static/js/2.bc256e4b.chunk.js",
+    "static/js/2.bc256e4b.chunk.js.map": "/Restaurant-website-using-React/static/js/2.bc256e4b.chunk.js.map",
+    "static/js/3.23c3af5e.chunk.js": "/Restaurant-website-using-React/static/js/3.23c3af5e.chunk.js",
+    "static/js/3.23c3af5e.chunk.js.map": "/Restaurant-website-using-React/static/js/3.23c3af5e.chunk.js.map",
+    "index.html": "/Restaurant-website-using-React/index.html",
+    "static/css/main.2aae2c2e.chunk.css.map": "/Restaurant-website-using-React/static/css/main.2aae2c2e.chunk.css.map",
+    "static/js/2.bc256e4b.chunk.js.LICENSE.txt": "/Restaurant-website-using-React/static/js/2.bc256e4b.chunk.js.LICENSE.txt",
+    "static/media/about-img.b50db0fa.bin": "/Restaurant-website-using-React/static/media/about-img.b50db0fa.bin",
+    "static/media/blog-1.065d1256.jpeg": "/Restaurant-website-using-React/static/media/blog-1.065d1256.jpeg",
+    "static/media/blog-2.aad86213.jpeg": "/Restaurant-website-using-React/static/media/blog-2.aad86213.jpeg",
+    "static/media/blog-3.facb0a62.jpeg": "/Restaurant-website-using-React/static/media/blog-3.facb0a62.jpeg",
+    "static/media/cart-item-1.ca74090c.png": "/Restaurant-website-using-React/static/media/cart-item-1.ca74090c.png",
+    "static/media/cart-item-2.a126b218.png": "/Restaurant-website-using-React/static/media/cart-item-2.a126b218.png",
+    "static/media/cart-item-3.24f36923.png": "/Restaurant-website-using-React/static/media/cart-item-3.24f36923.png",
+    "static/media/cart-item-4.55373ba7.png": "/Restaurant-website-using-React/static/media/cart-item-4.55373ba7.png",
+    "static/media/style.css": "/Restaurant-website-using-React/static/media/home-img.f37c8ea7.jpg",
+    "static/media/logo3.77cccca9.png": "/Restaurant-website-using-React/static/media/logo3.77cccca9.png",
+    "static/media/menu-1.a91ecf10.png": "/Restaurant-website-using-React/static/media/menu-1.a91ecf10.png",
+    "static/media/menu-2.a4416000.png": "/Restaurant-website-using-React/static/media/menu-2.a4416000.png",
+    "static/media/menu-3.912b25e2.png": "/Restaurant-website-using-React/static/media/menu-3.912b25e2.png",
+    "static/media/menu-4.102bafe3.png": "/Restaurant-website-using-React/static/media/menu-4.102bafe3.png",
+    "static/media/menu-5.ac0c9b07.png": "/Restaurant-website-using-React/static/media/menu-5.ac0c9b07.png",
+    "static/media/menu-6.1e627e81.png": "/Restaurant-website-using-React/static/media/menu-6.1e627e81.png",
+    "static/media/pic-1.b105fe43.png": "/Restaurant-website-using-React/static/media/pic-1.b105fe43.png",
+    "static/media/product-1.a0b16a8f.png": "/Restaurant-website-using-React/static/media/product-1.a0b16a8f.png",
+    "static/media/product-2.f1bc745b.png": "/Restaurant-website-using-React/static/media/product-2.f1bc745b.png",
+    "static/media/product-3.80abee24.png": "/Restaurant-website-using-React/static/media/product-3.80abee24.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baa3a847.js",
+    "static/js/2.bc256e4b.chunk.js",
+    "static/css/main.2aae2c2e.chunk.css",
+    "static/js/main.b08fe1a0.chunk.js"
+  ]
+}
